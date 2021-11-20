@@ -1,0 +1,59 @@
+.introducao-portifolio{
+  background-image: url("../img/bg-portfolio.jpg") ;
+  background-size: cover;
+  padding: 20px 0;
+  
+  
+}
+
+.introducao-portifolio h1{
+  margin-top: 25px;
+}
+.missao_sobre{
+  padding-top: 77px;
+  text-align: left;
+}
+
+.coluna-1-sobre{
+  padding-right: 80px;
+}
+
+.coluna-2-sobre li{
+  line-height: 25px;
+}
+
+.missao_sobre img{
+  width: 940px;
+  height: 320px;
+  margin: 50px auto 20px auto;
+}
+
+.quote-cliente{
+  padding: 10px 0;
+  max-width: 450px;
+  
+  margin: 0 auto;
+}
+
+.quote-cliente p{
+  
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 25px;
+  margin:25px 0 10px 0;
+
+}
+
+.quote-cliente cite{
+  
+  font-weight: bold;
+  float: right;
+  margin-bottom: 15px;
+    
+}
+
+.portifolio{
+  margin-bottom: -70px;
+}
