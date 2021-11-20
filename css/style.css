@@ -318,7 +318,12 @@ li p {
   color: black;
   margin-bottom: 20px;
 }
+ .btn-produtos:hover{
+  transition: .8s;
+  border-color: #fff;
+  color: #fff;
 
+}
 /*PORTIFOLIO*/
 
 .portifolio {
