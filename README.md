@@ -12,4 +12,6 @@ CSS3
 JavaScript (animações e slides)
 
 🔖 Layout 
-O layout do site foi desenvolvido durante o curso de Web Design Completo da Origamid https://www.origamid.com/curso/web-design-completo
+O layout do site foi desenvolvido durante o curso de Web Design Completo da [Origamid](https://www.origamid.com/curso/wordpress-como-cms).
+
+
