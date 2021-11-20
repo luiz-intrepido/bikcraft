@@ -85,9 +85,8 @@ p {
   line-height: 20px;
 }
 
-.menu-ativo{
+.menu-ativo {
   color: white;
-  
 }
 
 /*header*/
@@ -126,10 +125,9 @@ p {
   transition-duration: 0.5s;
 }
 
-.header_menu ul li a.menu-ativo{
+.header_menu ul li a.menu-ativo {
   color: white;
 }
-
 
 /*introdção*/
 
@@ -203,26 +201,23 @@ p {
   padding-top: 80px;
   color: white;
   text-align: center;
-  
 }
 
-.introducao-interna h1{
+.introducao-interna h1 {
   font-size: 36px;
   font-weight: bold;
   text-transform: uppercase;
   padding-top: 15px;
-  
-  
 }
 
-.introducao-interna p{
+.introducao-interna p {
   color: white;
   line-height: 20px;
   font-size: 14px;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.introducao-interna h1::after{
+.introducao-interna h1::after {
   content: '';
   display: block;
   width: 60px;
@@ -233,17 +228,16 @@ p {
 
 /*SUBTITULO INTERNO*/
 
-.subtitulo-interno{
+.subtitulo-interno {
   font-weight: bold;
   line-height: 30px;
   font-size: 24px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: black;
-  
 }
 
-.subtitulo-interno::after{
+.subtitulo-interno::after {
   content: '';
   display: block;
   width: 70px;
@@ -253,12 +247,11 @@ p {
   text-align: right;
 }
 
-.missao_sobre p{
+.missao_sobre p {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 18px;
   line-height: 25px;
 }
-
 
 /*Produtos*/
 
@@ -276,7 +269,7 @@ li p {
   margin-bottom: 40px;
 }
 
-.produtos_lista li img{
+.produtos_lista li img {
   margin: 0 auto;
 }
 
@@ -308,7 +301,6 @@ li p {
 }
 
 .call {
-  
   text-align: center;
   padding: 0px;
   clear: both;
@@ -318,11 +310,10 @@ li p {
   color: black;
   margin-bottom: 20px;
 }
- .btn-produtos:hover{
-  transition: .8s;
+.btn-produtos:hover {
+  transition: 0.8s;
   border-color: #fff;
   color: #fff;
-
 }
 /*PORTIFOLIO*/
 
@@ -411,17 +402,16 @@ li p {
   background-size: cover;
   text-align: center;
   padding-top: 40px;
-  margin-top:50px;
+  margin-top: 50px;
   margin-bottom: -50px;
 }
-.quebra p{
+.quebra p {
   margin-top: 70px;
   max-width: 420px;
   text-align: center;
-  
 }
 
-.quebra cite{
+.quebra cite {
   margin-right: 70px;
 }
 
@@ -505,9 +495,8 @@ li p {
 }
 
 [data-slide-nav] {
-  display:block;
+  display: block;
   text-align: center;
-  
 }
 [data-slide-nav] button {
   display: inline-block;
@@ -522,11 +511,11 @@ li p {
   background-color: #1d1d1d;
 }
 
-[data-slide-nav] button.active{
+[data-slide-nav] button.active {
   background-color: #fec63e;
 }
 
-.js  [data-anime]{
+.js [data-anime] {
   opacity: 0;
 }
 
@@ -536,8 +525,6 @@ li p {
   transition: opacity 800ms, transofrm 800ms;
 }
 
-.js .fadeIndown{
+.js .fadeIndown {
   transform: translate3d(0, -20px, 0);
 }
-
-
