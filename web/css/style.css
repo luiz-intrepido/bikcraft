@@ -85,9 +85,8 @@ p {
   line-height: 20px;
 }
 
-.menu-ativo{
+.menu-ativo {
   color: white;
-  
 }
 
 /*header*/
@@ -126,10 +125,9 @@ p {
   transition-duration: 0.5s;
 }
 
-.header_menu ul li a.menu-ativo{
+.header_menu ul li a.menu-ativo {
   color: white;
 }
-
 
 /*introdção*/
 
@@ -203,26 +201,23 @@ p {
   padding-top: 80px;
   color: white;
   text-align: center;
-  
 }
 
-.introducao-interna h1{
+.introducao-interna h1 {
   font-size: 36px;
   font-weight: bold;
   text-transform: uppercase;
   padding-top: 15px;
-  
-  
 }
 
-.introducao-interna p{
+.introducao-interna p {
   color: white;
   line-height: 20px;
   font-size: 14px;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.introducao-interna h1::after{
+.introducao-interna h1::after {
   content: '';
   display: block;
   width: 60px;
@@ -233,17 +228,16 @@ p {
 
 /*SUBTITULO INTERNO*/
 
-.subtitulo-interno{
+.subtitulo-interno {
   font-weight: bold;
   line-height: 30px;
   font-size: 24px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: black;
-  
 }
 
-.subtitulo-interno::after{
+.subtitulo-interno::after {
   content: '';
   display: block;
   width: 70px;
@@ -253,12 +247,11 @@ p {
   text-align: right;
 }
 
-.missao_sobre p{
+.missao_sobre p {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 18px;
   line-height: 25px;
 }
-
 
 /*Produtos*/
 
@@ -276,7 +269,7 @@ li p {
   margin-bottom: 40px;
 }
 
-.produtos_lista li img{
+.produtos_lista li img {
   margin: 0 auto;
 }
 
@@ -308,7 +301,6 @@ li p {
 }
 
 .call {
-  
   text-align: center;
   padding: 0px;
   clear: both;
@@ -397,6 +389,122 @@ li p {
   margin: 6px auto;
 }
 
+.introducao-contato {
+  background-image: url('../img/bg-contato.jpg');
+  background-size: cover;
+  padding: 20px 0;
+}
+
+.introducao-contato h1 {
+  margin-top: 25px;
+}
+
+/*orçamento*/
+
+.form {
+  padding-right: 60px;
+}
+
+.contato {
+  background: #fff;
+  color: #000;
+  margin-top: 60px;
+  padding-bottom: 20px;
+  margin-bottom: -50px;
+}
+
+.contato .subtitulo {
+  color: #fec63e;
+  margin-top: 30px;
+}
+
+.contato-dados h3 {
+  color: #fec63e;
+  font-weight: bolder;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 15px;
+}
+
+.contato-dados ul {
+  margin-bottom: 45px;
+}
+
+.form label {
+  display: block;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.form input {
+  display: block;
+  background-color: #fff;
+  border: #fec63e solid 4px;
+  color: #000;
+  outline: none;
+  width: 100%;
+  height: 40px;
+  margin-bottom: 10px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.form textarea {
+  background-color: #fff;
+  border: #fec63e solid 4px;
+  color: #000;
+  outline: none;
+  width: 100%;
+  height: 120px;
+}
+
+.form button {
+  background-color: #fff;
+  border: #fec63e solid 4px;
+  color: #fec63e;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  height: 40px;
+  width: 140px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding-bottom: 30px;
+}
+
+.contato h3 {
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.mont {
+  margin-top: -25px;
+}
+
+.orcamento-dados {
+  font-size: 18px;
+  line-height: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lista2 li {
+  margin-top: 5px;
+  font-size: 14px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.map {
+  width: 100%;
+  margin-bottom: 80px;
+}
+
+.footer_redes a:hover {
+  border-color: #fff;
+}
+
+.redes a:hover {
+  border-color: #000;
+}
+
 /*footer*/
 
 .quebra {
@@ -406,17 +514,16 @@ li p {
   background-size: cover;
   text-align: center;
   padding-top: 40px;
-  margin-top:50px;
+  margin-top: 50px;
   margin-bottom: -50px;
 }
-.quebra p{
+.quebra p {
   margin-top: 70px;
   max-width: 420px;
   text-align: center;
-  
 }
 
-.quebra cite{
+.quebra cite {
   margin-right: 70px;
 }
 
@@ -500,9 +607,8 @@ li p {
 }
 
 [data-slide-nav] {
-  display:block;
+  display: block;
   text-align: center;
-  
 }
 [data-slide-nav] button {
   display: inline-block;
@@ -517,11 +623,11 @@ li p {
   background-color: #1d1d1d;
 }
 
-[data-slide-nav] button.active{
+[data-slide-nav] button.active {
   background-color: #fec63e;
 }
 
-.js  [data-anime]{
+.js [data-anime] {
   opacity: 0;
 }
 
@@ -531,8 +637,6 @@ li p {
   transition: opacity 800ms, transofrm 800ms;
 }
 
-.js .fadeIndown{
+.js .fadeIndown {
   transform: translate3d(0, -20px, 0);
 }
-
-
