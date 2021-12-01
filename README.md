@@ -14,7 +14,16 @@ JavaScript (animações e slides)
 🔖 Layout 
 O layout do site foi desenvolvido durante o curso de Web Design Completo da [Origamid](https://www.origamid.com/curso/web-design-completo/).
 
-Veja o Site no ar: https://luizintrepido.github.io/bikcraft/
+## 🌐 Projeto final
+[Clique aqui] (https://luizintrepido.github.io/bikcraft/)
+
+
+---
+<p align="center">
+  Feito com 🖤 <a href="https://www.linkedin.com/in/luizintrepido/">Luiz Intrépido</a>
+</p>
+
+
 
 
 
