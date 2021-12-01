@@ -6,9 +6,9 @@ A Bikcraft é uma empresa fictícia que trabalha com a personalização de bicic
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-PHP
-HTML5
-CSS3
+PHP, 
+HTML5, 
+CSS3, e
 JavaScript (animações e slides)
 
 🔖 Layout 
