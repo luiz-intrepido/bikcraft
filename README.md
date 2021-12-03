@@ -1,6 +1,6 @@
 # bikcraft
  
-💻 Sobre o projeto
+ <h2>💻 Sobre o projeto</h2>
 A Bikcraft é uma empresa fictícia que trabalha com a personalização de bicicletas, cujo objetivo era o de aumentar seu faturamento por meio de um website, divulgando seus produtos para novos clientes.
 
  <h2>🚀Tecnologias</h2>
